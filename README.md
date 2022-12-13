@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sreekanthkuruva
 - 👀 I’m interested in Devops and AWS
-- 🌱 I’m currently learning devops and AWS
+- 🌱 I’m currently working as an devops and AWS admin
 - 💞️ I’m looking to collaborate on devops 
 - 📫 How to reach me kuruva6298@gmail.com
 
